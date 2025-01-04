@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Sebastian, Teddy
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> caad6b0 (Edit Panthers)
 
 members:
 - Violet
